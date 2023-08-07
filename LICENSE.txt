@@ -1,0 +1,11 @@
+Proprietary License
+
+All rights reserved. This code and its accompanying documentation are the
+property of José Valdiviezo. No part of this code may be reproduced,
+distributed, or transmitted in any form or by any means, including photocopying,
+recording, or other electronic or mechanical methods, without the prior written
+permission of the copyright holder, except in the case of brief quotations
+embodied in critical reviews or certain other noncommercial uses permitted
+by copyright law.
+
+For licensing inquiries, please contact luisj.valdiviezo20@gmail.com
